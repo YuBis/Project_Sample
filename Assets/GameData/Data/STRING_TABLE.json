@@ -1,0 +1,10 @@
+{
+    "STRING_TABLE": {
+        "MONSTER_1": {
+            "VALUE": "달팽이"
+        },
+        "MONSTER_2": {
+            "VALUE": "파란 달팽이"
+        }
+    }
+}
